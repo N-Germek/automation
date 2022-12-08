@@ -6,12 +6,18 @@ Version 1.0 - December 6, 2022 - Created GitHub repository, initial notes in REA
 Version 2.0 - December 7, 2022 - Created emails.txt and phone_numbers.txt files, finalized README.md file
 
 ### Links and Resources
-> [Potential Contacts Code](/automation/potential_contacts.py)
-> [Existing Contacts list](assets/existing_contacts.txt)
-> [Potential Contacts to Locate](assets/potential_contacts.txt)
-> [Emails](assets/emails.txt)
-> [Phone Numbers](assets/phone_numbers.txt)
-> [Python Regular Expression Tutorial](https://www.datacamp.com/tutorial/python-regular-expression-tutorial)
+
+[Potential Contacts Code](/automation/potential_contacts.py)
+
+[Existing Contacts list](assets/existing_contacts.txt)
+
+[Potential Contacts to Locate](assets/potential_contacts.txt)
+
+[Emails](assets/emails.txt)
+ 
+[Phone Numbers](assets/phone_numbers.txt)
+ 
+[Python Regular Expression Tutorial](https://www.datacamp.com/tutorial/python-regular-expression-tutorial)
 
 ### Setup
 
