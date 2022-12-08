@@ -1,32 +1,35 @@
 # LAB - Class 19
 
 ## Project: Automation
-### Author: Natalija Germek Clarke
+### Author: Natalija Germek Clarke, assistance from TA Garfield
 Version 1.0 - December 6, 2022 - Created GitHub repository, initial notes in README.md, created files, imported assets.
+Version 2.0 - December 7, 2022 - Created emails.txt and phone_numbers.txt files, finalized README.md file
 
 ### Links and Resources
 [Potential Contacts Code](/automation/potential_contacts.py)
-[Existing Contacts list](/existing_contacts.txt)
-[Potential Contacts to Locate](/potential_contacts.txt)
+[Existing Contacts list](assets/existing_contacts.txt)
+[Potential Contacts to Locate](assets/potential_contacts.txt)
+[Emails](assets/emails.txt)
+[Phone Numbers](assets/phone_numbers.txt)
+[Python Regular Expression Tutorial](https://www.datacamp.com/tutorial/python-regular-expression-tutorial)
 
 ### Setup
 
-pip install Faker
-import faker from Faker
+Importing Regex through import statement.
 
 #### .env requirements (where applicable)
-i.e.
 
-PORT - Port Number
-DATABASE_URL - URL to the running Postgres instance/db
+.venv for environment and testing.
 
 #### How to initialize/run your application
 
-e.g. python3 automation/potential_contacts.py
+python3 automation/potential_contacts.py
 
 #### How to use your library (where applicable)
 
+After importing with 'import re' in automation/potential_contacts.py module, utilize findall() method to locate 
+phone numbers or emails as needed with proper pattern.
+
 #### Tests
-How do you run tests?
-Any tests of note?
-Describe any tests that you did not complete, skipped, etc
+
+All tests are automated to check against naming and format requirements.
